@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "express-swagger-claudia-executor",
+    "name": "express-swagger-claudia",
+    "region": "ap-southeast-1"
+  },
+  "api": {
+    "id": "dmucilifib"
+  }
+}
