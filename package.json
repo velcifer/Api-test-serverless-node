@@ -1,7 +1,7 @@
 {
   "name": "express-swagger-claudia",
   "version": "1.0.0",
-  "description": "",
+  "description": "App test node/serverless",
   "main": "app.js",
   "scripts": {
     "init-claudia": "claudia generate-serverless-express-proxy --express-module app",
@@ -10,7 +10,7 @@
     "start": "node local.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Julio Aguirre",
   "license": "ISC",
   "dependencies": {
     "aws-serverless-express": "^3.3.6",
